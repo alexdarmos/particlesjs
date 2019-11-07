@@ -275,6 +275,10 @@ canvas {
 	justify-content: center;
 }
 
+input {
+	font-family: 'Oswald', sans-serif;
+}
+
 .sign-up-form input {
 	margin: 12px;
 	padding: 10px;
